@@ -1,4 +1,4 @@
-# Site pessoal / Aisthesis Lab
+# Site pessoal / Bioplug
 
 Estrutura inicial em HTML, CSS e JavaScript para publicação no GitHub Pages.
 
